@@ -1,3 +1,5 @@
+这是一个电商广告推荐系统中的商品分类的机器学习项目
+
 ### Install depencies
 ```
 pip3 install -r requirements.txt
