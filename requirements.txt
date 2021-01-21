@@ -1,0 +1,9 @@
+matplotlib
+nltk
+numpy
+pandas
+sklearn_pandas
+scikit-image
+scikit-learn
+scipy
+sklearn2pmml
